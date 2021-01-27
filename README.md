@@ -63,6 +63,9 @@ Just run below five commands one after another :
 
 `wget -P /media/script https://raw.githubusercontent.com/axlhazarika/Linux-to-Windows-with-QEMU/master/mediabots_Linux-to-Windows.sh`
 
+or for windows 10
+`wget -P /media/script https://raw.githubusercontent.com/axlhazarika/Linux-to-Windows-with-QEMU/master/ubuntu-to-windows10.sh`
+
 `chmod +x /media/script/*`
 
 `/media/script/mediabots_Linux-to-Windows.sh`
